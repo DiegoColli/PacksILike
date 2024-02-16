@@ -1,2 +1,5 @@
 # PacksILike
 Useful packages
+
+
+ClrHeapAllocationAnalyzer
